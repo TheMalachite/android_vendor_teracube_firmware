@@ -1,0 +1,1 @@
+-include vendor/teracube/firmware/$(TARGET_PRODUCT)/config.mk
